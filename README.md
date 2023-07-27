@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Geet Raj
 - 👀 I’m interested in Website and Fivem Server Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React(JS)
 - 💞️ I’m looking to collaborate on Lua
 - 📫 How to reach me - geetraj970@gmail.com
 
