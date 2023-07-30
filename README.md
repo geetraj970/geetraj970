@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React(JS)
 - 💞️ I’m looking to collaborate on Lua
 - 📫 How to reach me - geetraj970@gmail.com
-- 🌎 Websitr - https://geetraj970.github.io/portfolio/
+- 🌎 Website - https://geetraj970.github.io/portfolio/
 - 🔥 Linkedin - https://www.linkedin.com/in/geetraj
 
 <!---
