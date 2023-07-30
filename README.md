@@ -1,8 +1,10 @@
 - 👋 Hi, Myself Geet Raj
-- 👀 I’m interested in Website and Fivem Server Development
+- 👀 I’m in Website and Fivem Server Development
 - 🌱 I’m currently learning React(JS)
 - 💞️ I’m looking to collaborate on Lua
 - 📫 How to reach me - geetraj970@gmail.com
+- 🌎 Websitr - https://geetraj970.github.io/portfolio/
+- 🔥 Linkedin - https://www.linkedin.com/in/geetraj
 
 <!---
 geetraj970/geetraj970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
