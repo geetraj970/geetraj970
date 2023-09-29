@@ -1,5 +1,5 @@
 - 👋 Hi, Myself Geet Raj
-- 👀 I’m in Website and Fivem Server Development
+- 👀 I’m in Website, Fivem & RedM Server Development
 - 🌱 I’m currently learning React(JS)
 - 💞️ I’m looking to collaborate on Lua
 - 📫 How to reach me - geetraj970@gmail.com
